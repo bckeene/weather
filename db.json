@@ -1,265 +1,82 @@
-{
-  "results": [
+[
     {
-      "statement_id": 0,
-      "series": [
-        {
-          "name": "weather",
-          "tags": {
-            "county": "Clallam"
-          },
-          "columns": [
-            "time",
-            "max"
-          ],
-          "values": [
-            [
-              "2022-06-05T09:00:00Z",
-              2.73
-            ]
-          ]
-        },
-        {
-          "name": "weather",
-          "tags": {
-            "county": "Clatsop"
-          },
-          "columns": [
-            "time",
-            "max"
-          ],
-          "values": [
-            [
-              "2022-06-10T03:00:00Z",
-              2.51
-            ]
-          ]
-        },
-        {
-          "name": "weather",
-          "tags": {
-            "county": "Grays Harbor"
-          },
-          "columns": [
-            "time",
-            "max"
-          ],
-          "values": [
-            [
-              "2022-06-10T03:00:00Z",
-              2.72
-            ]
-          ]
-        },
-        {
-          "name": "weather",
-          "tags": {
-            "county": "Lane"
-          },
-          "columns": [
-            "time",
-            "max"
-          ],
-          "values": [
-            [
-              "2022-06-05T09:00:00Z",
-              2.86
-            ]
-          ]
-        },
-        {
-          "name": "weather",
-          "tags": {
-            "county": "Lincoln"
-          },
-          "columns": [
-            "time",
-            "max"
-          ],
-          "values": [
-            [
-              "2022-06-05T03:00:00Z",
-              3.35
-            ]
-          ]
-        },
-        {
-          "name": "weather",
-          "tags": {
-            "county": "Marin"
-          },
-          "columns": [
-            "time",
-            "max"
-          ],
-          "values": [
-            [
-              "2022-06-14T00:00:00Z",
-              2.63
-            ]
-          ]
-        },
-        {
-          "name": "weather",
-          "tags": {
-            "county": "Monterey"
-          },
-          "columns": [
-            "time",
-            "max"
-          ],
-          "values": [
-            [
-              "2022-06-13T21:00:00Z",
-              2.88
-            ]
-          ]
-        },
-        {
-          "name": "weather",
-          "tags": {
-            "county": "Orange County"
-          },
-          "columns": [
-            "time",
-            "max"
-          ],
-          "values": [
-            [
-              "2022-05-31T09:00:00Z",
-              1.1
-            ]
-          ]
-        },
-        {
-          "name": "weather",
-          "tags": {
-            "county": "Pacific"
-          },
-          "columns": [
-            "time",
-            "max"
-          ],
-          "values": [
-            [
-              "2022-06-23T09:00:00Z",
-              1.99
-            ]
-          ]
-        },
-        {
-          "name": "weather",
-          "tags": {
-            "county": "San Diego"
-          },
-          "columns": [
-            "time",
-            "max"
-          ],
-          "values": [
-            [
-              "2022-05-31T12:00:00Z",
-              1.33
-            ]
-          ]
-        },
-        {
-          "name": "weather",
-          "tags": {
-            "county": "San Francisco"
-          },
-          "columns": [
-            "time",
-            "max"
-          ],
-          "values": [
-            [
-              "2022-06-14T00:00:00Z",
-              2.63
-            ]
-          ]
-        },
-        {
-          "name": "weather",
-          "tags": {
-            "county": "San Luis Obispo"
-          },
-          "columns": [
-            "time",
-            "max"
-          ],
-          "values": [
-            [
-              "2022-06-14T00:00:00Z",
-              3.02
-            ]
-          ]
-        },
-        {
-          "name": "weather",
-          "tags": {
-            "county": "San Mateo"
-          },
-          "columns": [
-            "time",
-            "max"
-          ],
-          "values": [
-            [
-              "2022-06-14T03:00:00Z",
-              2.34
-            ]
-          ]
-        },
-        {
-          "name": "weather",
-          "tags": {
-            "county": "Santa Barbara"
-          },
-          "columns": [
-            "time",
-            "max"
-          ],
-          "values": [
-            [
-              "2022-06-14T03:00:00Z",
-              1.67
-            ]
-          ]
-        },
-        {
-          "name": "weather",
-          "tags": {
-            "county": "Santa Cruz"
-          },
-          "columns": [
-            "time",
-            "max"
-          ],
-          "values": [
-            [
-              "2022-06-14T00:00:00Z",
-              2.68
-            ]
-          ]
-        },
-        {
-          "name": "weather",
-          "tags": {
-            "county": "Tillamook"
-          },
-          "columns": [
-            "time",
-            "max"
-          ],
-          "values": [
-            [
-              "2022-06-10T03:00:00Z",
-              2.6
-            ]
-          ]
-        }
-      ]
+        "county": "Clallam",
+        "time": "2022-06-05T09:00:00Z",
+        "wave_height": 2.73
+    },
+    {
+        "county": "Clatsop",
+        "time": "2022-06-10T03:00:00Z",
+        "wave_height": 2.51
+    },
+    {
+        "county": "Grays Harbor",
+        "time": "2022-06-10T03:00:00Z",
+        "wave_height": 2.72
+    },
+    {
+        "county": "Lane",
+        "time": "2022-06-05T09:00:00Z",
+        "wave_height": 2.86
+    },
+    {
+        "county": "Lincoln",
+        "time": "2022-06-05T03:00:00Z",
+        "wave_height": 3.35
+    },
+    {
+        "county": "Marin",
+        "time": "2022-06-10T03:00:00Z",
+        "wave_height": 2.63
+    },
+    {
+        "county": "Monterey",
+        "time": "2022-06-13T21:00:00Z",
+        "wave_height": 2.88
+    },
+    {
+        "county": "Orange County",
+        "time": "2022-06-04T14:00:00Z",
+        "wave_height": 0.97
+    },
+    {
+        "county": "Pacific",
+        "time": "2022-06-04T14:00:00Z",
+        "wave_height": 1.99
+    },
+    {
+        "county": "San Diego",
+        "time": "2022-06-04T15:00:00Z",
+        "wave_height": 1.14
+    },
+    {
+        "county": "San Francisco",
+        "time": "2022-06-14T00:00:00Z",
+        "wave_height": 2.63
+    },
+    {
+        "county": "San Luis Obispo",
+        "time": "2022-06-14T00:00:00Z",
+        "wave_height": 3.02
+    },
+    {
+        "county": "San Mateo",
+        "time": "2022-06-14T03:00:00Z",
+        "wave_height": 2.34
+    },
+    {
+        "county": "Santa Barbara",
+        "time": "2022-06-14T03:00:00Z",
+        "wave_height": 1.67
+    },
+    {
+        "county": "Santa Cruz",
+        "time": "2022-06-14T00:00:00Z",
+        "wave_height": 2.68
+    },
+    {
+        "county": "Tillamook",
+        "time": "2022-06-10T03:00:00Z",
+        "wave_height": 2.6
     }
-  ]
-}
+]
